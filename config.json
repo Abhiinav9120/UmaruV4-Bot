@@ -15,10 +15,10 @@
 		"fca-umaru-v2"
 	],
 	"botname": "Umaru",
-	"prefix": "/",
-	"nickname": "》 {prefix} 《 ❃ ➠ {botname}",
+	"prefix": ".",
+	"nickname": "》 {prefix} 《 ❃ ➠ {Darling}",
 	"adminbot": [
-		"100052086120278"
+		"100039216242970"
 	],
 	"RankupMode": "canvas",
 	"WelcomeMode": "canvas",
